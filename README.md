@@ -27,7 +27,7 @@ O objetivo é permitir que o usuário insira um valor, selecione uma moeda de or
 
 2. Acesse a pasta do projeto
    ```bash
-  cd currency-converter
+   cd currency-converter
 
 3. Instale as dependências:
    ```bash
