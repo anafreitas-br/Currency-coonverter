@@ -1,6 +1,6 @@
 # Currency Converter
 
-Este é um projeto simples de **conversor de moedas** desenvolvido utilizando **Vite** e **TypeScript** no Codelab do meu curso de ADS.  
+Este é um projeto simples de **conversor de moedas** desenvolvido utilizando **Vite** e **TypeScript** no Codelab do curso de ADS da materia FrontEnd Design Engineering do professor Felipe Cavalcante Vilella de Oliveira.  
 O objetivo é permitir que o usuário insira um valor, selecione uma moeda de origem e uma moeda de destino e obtenha a conversão em tempo real.
 
 ## Tecnologias utilizadas
